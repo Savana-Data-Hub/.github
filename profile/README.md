@@ -2,6 +2,10 @@
 
 **A robust data management application tailored for efficient data entry, storage, retrieval, and visualization**
 
+Join our Discord server 👇
+
+[![](https://dcbadge.limes.pink/api/server/https://discord.gg/UYyRB9cjZb)](https://discord.gg/UYyRB9cjZb)
+
 ## 🏗️ Architecture
 
 Savana Data Hub follows a modular architecture with separate repositories for different components:
