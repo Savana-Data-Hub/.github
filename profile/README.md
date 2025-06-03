@@ -4,7 +4,8 @@
 
 Join our Discord server 👇
 
-[![](https://dcbadge.limes.pink/api/server/https://discord.gg/UYyRB9cjZb)](https://discord.gg/UYyRB9cjZb)
+[![Join us on Discord](https://img.shields.io/badge/Join%20our%20Community%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WkJehyhHJZ)
+
 
 ## 🏗️ Architecture
 
