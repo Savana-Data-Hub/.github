@@ -1,6 +1,6 @@
 # Savana Data Hub 🌍📊
 
-**A robust data management application tailored for efficient data entry, storage, retrieval, and visualization**
+**A Data management application tailored for efficient data entry, storage, retrieval, and visualization. This a project is a fork from the official DHIS2 community project. With this project, effort has been made to achieve simplicity with a new modern UI, a seperate warehouse and visualization layer with BQ and metabase respective**
 
 Join our Discord server 👇
 
